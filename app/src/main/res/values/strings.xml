@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Timetable-app</string>
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> Description1 </item>
+        <item> Description2 </item>
+        <item> Description3 </item>
+        <item> Description4 </item>
+    </string-array>
+
 </resources>
